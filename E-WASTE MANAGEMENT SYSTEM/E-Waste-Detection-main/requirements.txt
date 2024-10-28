@@ -1,0 +1,8 @@
+opencv-python-headless
+opencv-python
+ultralytics
+pillow
+scikit-learn
+reportlab
+streamlit
+dill
